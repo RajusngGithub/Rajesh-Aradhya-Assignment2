@@ -3,7 +3,7 @@ import { Layout, Row, Col, Spin, Alert, Typography } from "antd";
 import useUserData from "./hooks/useUserData";
 import UserCard from "./Components/UserCard";
 import UserModal from "./Components/UserModal";
-import "./App.css";
+// import "./App.css";
 const { Header, Content } = Layout;
 const { Title } = Typography;
 
